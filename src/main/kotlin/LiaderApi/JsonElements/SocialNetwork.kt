@@ -1,4 +1,4 @@
-package LiderApi.JsonElements
+package LiaderApi.JsonElements
 
 data class SocialNetwork(
     val url: String,

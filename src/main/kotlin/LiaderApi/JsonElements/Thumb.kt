@@ -1,4 +1,4 @@
-package LiderApi.JsonElements
+package LiaderApi.JsonElements
 
 import com.google.gson.annotations.SerializedName
 
